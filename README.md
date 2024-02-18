@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJs , NodeJs**
 
-- 👯 I’m looking to collaborate on **frontend project**
+- 👯 I’m looking to collaborate on **Full Stack project**
 
 - 📫 How to reach me **yadav.shashank031@gmail.com**
 
