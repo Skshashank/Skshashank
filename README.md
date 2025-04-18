@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Task management system](https://github.com/Skshashank/task--management-007)
 
-- 🌱 I’m currently learning **ReactJs , NodeJs**
+- 🌱 I’m currently learning **React-Native ,ReactJS**
 
-- 👯 I’m looking to collaborate on **Full Stack project**
+- 👯 I’m looking to collaborate on **React-Native or ReactJs Project**
 
 - 📫 How to reach me **yadav.shashank031@gmail.com**
 
