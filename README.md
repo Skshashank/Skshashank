@@ -1,7 +1,7 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWstXvCrjt5kLFco6esyZc3MZJDRgozn3wgg&usqp=CAU )
 
 <h1 align="center">Hi 👋, I'm Shashank Yadav</h1>
-<h3 align="center">A passionate Full-Stack and Blockchain developer.</h3>
+<h3 align="center">A passionate React Native and ReactJs developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skshashank&label=Profile%20views&color=0e75b6&style=flat" alt="skshashank" /> </p>
